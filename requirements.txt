@@ -4,3 +4,17 @@ plotly
 matplotlib
 yfinance
 scikit-learn
+streamlit
+joblib
+numpy
+transformers
+torch
+torch.nn
+googleapiclient.discovery
+google_auth_oauthlib.flow
+google.auth.transport.requests
+youtube_transcript_api
+tqdm
+re
+os
+pickle
